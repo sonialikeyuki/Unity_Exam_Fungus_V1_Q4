@@ -836,11 +836,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 110.64228, y: 164.71178}
+  scrollPos: {x: 121.710495, y: 180.45737}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 360
-  zoom: 0.8200002
+  blockViewHeight: 545
+  zoom: 0.7900002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -850,7 +850,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 386891017}
   selectedCommands:
-  - {fileID: 386891047}
+  - {fileID: 386891053}
   variables:
   - {fileID: 386891046}
   description: 
@@ -1614,7 +1614,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &386891052
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1628,7 +1628,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &386891053
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1640,7 +1640,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 60
   indentLevel: 1
-  storyText: "\u5403\u5B8C\u56C9"
+  storyText: "\u5403\u5B8C\u56C9!!!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1655,7 +1655,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &386891054
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1719,7 +1719,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &386891055
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1888,7 +1888,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &386891059
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1900,7 +1900,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 57
   indentLevel: 1
-  storyText: "\u5403\u5B8C\u56C9"
+  storyText: "\u5403\u5B8C\u56C9!!!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1915,7 +1915,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &386891060
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1979,7 +1979,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &386891061
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1993,7 +1993,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &386891062
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2005,7 +2005,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 54
   indentLevel: 1
-  storyText: "\u5403\u5B8C\u56C9"
+  storyText: "\u5403\u5B8C\u56C9!!!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2020,7 +2020,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &386891063
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2084,7 +2084,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &386891064
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2098,7 +2098,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &386891065
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2110,7 +2110,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 51
   indentLevel: 1
-  storyText: "\u5403\u5B8C\u56C9"
+  storyText: "\u5403\u5B8C\u56C9!!!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2125,7 +2125,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &386891066
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2189,7 +2189,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &386891067
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2203,7 +2203,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &386891068
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -2215,7 +2215,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 48
   indentLevel: 1
-  storyText: "\u5403\u5B8C\u56C9"
+  storyText: "\u5403\u5B8C\u56C9!!!"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -2230,7 +2230,7 @@ MonoBehaviour:
   setSayDialog: {fileID: 0}
 --- !u!114 &386891069
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
